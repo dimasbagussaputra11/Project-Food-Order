@@ -10,6 +10,11 @@ Regular 2
 
 Menteng Campus
 
+<img width="170" alt="Screenshot 2024-01-13 020022" src="https://github.com/dimasbagussaputra11/Project-Food-Order/assets/61934772/fd443db6-863e-48ea-ac95-0212498520bf">
+<img width="173" alt="Screenshot 2024-01-13 020412" src="https://github.com/dimasbagussaputra11/Project-Food-Order/assets/61934772/ab47cf1e-0029-4514-850d-82035ee7b71b">
+<img width="173" alt="Screenshot 2024-01-13 020544" src="https://github.com/dimasbagussaputra11/Project-Food-Order/assets/61934772/30b857b9-256d-4669-8964-1ef032546c86">
+
+
 Aplikasi ini bernama Aplikasi TOKO MADURA. Aplikasi ini merupakan aplikasi simulasi untuk pemesanan makanan seperti pecel lele, snack, dan lain-lain.
 
 Untuk mencoba aplikasi ini silahkan ikuti langkah2 berikut ini:
